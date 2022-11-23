@@ -1,0 +1,15 @@
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\bin\Debug\net6.0\2ITA_Proc.exe
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\bin\Debug\net6.0\2ITA_Proc.deps.json
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\bin\Debug\net6.0\2ITA_Proc.runtimeconfig.json
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\bin\Debug\net6.0\2ITA_Proc.dll
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\bin\Debug\net6.0\2ITA_Proc.pdb
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\2ITA_Proc.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\2ITA_Proc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\2ITA_Proc.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\2ITA_Proc.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\2ITA_Proc.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\2ITA_Proc.dll
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\refint\2ITA_Proc.dll
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\2ITA_Proc.pdb
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\2ITA_Proc.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITA_Proc\2ITA_Proc\obj\Debug\net6.0\ref\2ITA_Proc.dll

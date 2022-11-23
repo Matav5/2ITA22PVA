@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\bin\Debug\net6.0-windows\2ITAGameOfLife.exe
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\bin\Debug\net6.0-windows\2ITAGameOfLife.deps.json
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\bin\Debug\net6.0-windows\2ITAGameOfLife.runtimeconfig.json
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\bin\Debug\net6.0-windows\2ITAGameOfLife.dll
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\bin\Debug\net6.0-windows\2ITAGameOfLife.pdb
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\_2ITAGameOfLife.Form1.resources
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.dll
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\refint\2ITAGameOfLife.dll
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.pdb
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\2ITAGameOfLife.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITAGameOfLife\2ITAGameOfLife\obj\Debug\net6.0-windows\ref\2ITAGameOfLife.dll

@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\bin\Debug\net6.0-windows\2ITAObrazky.exe
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\bin\Debug\net6.0-windows\2ITAObrazky.deps.json
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\bin\Debug\net6.0-windows\2ITAObrazky.runtimeconfig.json
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\bin\Debug\net6.0-windows\2ITAObrazky.dll
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\bin\Debug\net6.0-windows\2ITAObrazky.pdb
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\_2ITAObrazky.Form1.resources
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.dll
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\refint\2ITAObrazky.dll
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.pdb
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\2ITAObrazky.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITAObrazky\2ITAObrazky\obj\Debug\net6.0-windows\ref\2ITAObrazky.dll

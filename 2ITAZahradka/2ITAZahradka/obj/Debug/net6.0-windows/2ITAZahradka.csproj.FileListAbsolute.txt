@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\bin\Debug\net6.0-windows\2ITAZahradka.exe
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\bin\Debug\net6.0-windows\2ITAZahradka.deps.json
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\bin\Debug\net6.0-windows\2ITAZahradka.runtimeconfig.json
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\bin\Debug\net6.0-windows\2ITAZahradka.dll
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\bin\Debug\net6.0-windows\2ITAZahradka.pdb
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\_2ITAZahradka.Form1.resources
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.dll
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\refint\2ITAZahradka.dll
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.pdb
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\2ITAZahradka.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITAZahradka\2ITAZahradka\obj\Debug\net6.0-windows\ref\2ITAZahradka.dll

@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\bin\Debug\net6.0-windows\2ITAWinForms.exe
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\bin\Debug\net6.0-windows\2ITAWinForms.deps.json
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\bin\Debug\net6.0-windows\2ITAWinForms.runtimeconfig.json
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\bin\Debug\net6.0-windows\2ITAWinForms.dll
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\bin\Debug\net6.0-windows\2ITAWinForms.pdb
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\_2ITAWinForms.Form1.resources
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.dll
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\refint\2ITAWinForms.dll
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.pdb
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\2ITAWinForms.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITAWinForms\2ITAWinForms\obj\Debug\net6.0-windows\ref\2ITAWinForms.dll

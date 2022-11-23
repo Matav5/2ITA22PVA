@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\bin\Debug\net6.0-windows\2ITAMedusa.exe
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\bin\Debug\net6.0-windows\2ITAMedusa.deps.json
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\bin\Debug\net6.0-windows\2ITAMedusa.runtimeconfig.json
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\bin\Debug\net6.0-windows\2ITAMedusa.dll
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\bin\Debug\net6.0-windows\2ITAMedusa.pdb
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\_2ITAMedusa.Form1.resources
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.dll
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\refint\2ITAMedusa.dll
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.pdb
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\2ITAMedusa.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITAMedusa\2ITAMedusa\obj\Debug\net6.0-windows\ref\2ITAMedusa.dll

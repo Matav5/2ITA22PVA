@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2ITAProc3/1.0.0": {
+        "runtime": {
+          "2ITAProc3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2ITAProc3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

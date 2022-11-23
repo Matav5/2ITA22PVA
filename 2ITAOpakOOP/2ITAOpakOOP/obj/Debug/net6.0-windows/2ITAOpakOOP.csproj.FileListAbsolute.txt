@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\bin\Debug\net6.0-windows\2ITAOpakOOP.exe
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\bin\Debug\net6.0-windows\2ITAOpakOOP.deps.json
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\bin\Debug\net6.0-windows\2ITAOpakOOP.runtimeconfig.json
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\bin\Debug\net6.0-windows\2ITAOpakOOP.dll
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\bin\Debug\net6.0-windows\2ITAOpakOOP.pdb
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\_2ITAOpakOOP.Form1.resources
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.dll
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\refint\2ITAOpakOOP.dll
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.pdb
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\2ITAOpakOOP.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITAOpakOOP\2ITAOpakOOP\obj\Debug\net6.0-windows\ref\2ITAOpakOOP.dll

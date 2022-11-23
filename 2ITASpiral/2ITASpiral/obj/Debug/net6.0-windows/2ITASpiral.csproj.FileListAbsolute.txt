@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\bin\Debug\net6.0-windows\2ITASpiral.exe
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\bin\Debug\net6.0-windows\2ITASpiral.deps.json
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\bin\Debug\net6.0-windows\2ITASpiral.runtimeconfig.json
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\bin\Debug\net6.0-windows\2ITASpiral.dll
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\bin\Debug\net6.0-windows\2ITASpiral.pdb
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\_2ITASpiral.Form1.resources
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.dll
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\refint\2ITASpiral.dll
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.pdb
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\2ITASpiral.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITASpiral\2ITASpiral\obj\Debug\net6.0-windows\ref\2ITASpiral.dll

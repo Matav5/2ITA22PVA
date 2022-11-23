@@ -1,0 +1,15 @@
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\2ITAProc2.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\2ITAProc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\2ITAProc2.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\2ITAProc2.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\2ITAProc2.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\bin\Debug\net6.0\2ITAProc2.exe
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\bin\Debug\net6.0\2ITAProc2.deps.json
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\bin\Debug\net6.0\2ITAProc2.runtimeconfig.json
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\bin\Debug\net6.0\2ITAProc2.dll
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\bin\Debug\net6.0\2ITAProc2.pdb
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\2ITAProc2.dll
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\refint\2ITAProc2.dll
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\2ITAProc2.pdb
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\2ITAProc2.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITAProc2\2ITAProc2\obj\Debug\net6.0\ref\2ITAProc2.dll

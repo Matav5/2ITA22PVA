@@ -1,0 +1,17 @@
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\bin\Debug\net6.0-windows\2ITASpoctiGame.exe
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\bin\Debug\net6.0-windows\2ITASpoctiGame.deps.json
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\bin\Debug\net6.0-windows\2ITASpoctiGame.runtimeconfig.json
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\bin\Debug\net6.0-windows\2ITASpoctiGame.dll
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\bin\Debug\net6.0-windows\2ITASpoctiGame.pdb
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.csproj.AssemblyReference.cache
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\_2ITASpoctiGame.Form1.resources
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.csproj.GenerateResource.cache
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.AssemblyInfo.cs
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.dll
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\refint\2ITASpoctiGame.dll
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.pdb
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\2ITASpoctiGame.genruntimeconfig.cache
+C:\Users\verne\source\repos\2ITASpoctiGame\2ITASpoctiGame\obj\Debug\net6.0-windows\ref\2ITASpoctiGame.dll
