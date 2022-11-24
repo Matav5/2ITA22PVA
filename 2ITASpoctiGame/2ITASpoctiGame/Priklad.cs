@@ -8,15 +8,17 @@ namespace _2ITASpoctiGame
 {
     internal class Priklad
     {
-        public double cisloA;
-        public double cisloB;
-        public Operator znamenko;
-        public double vysledek;
+        private double cisloA;
+        private double cisloB;
+        private Operator znamenko;
+        private double vysledek;
+        public double Vysledek => vysledek;
 
-        public Point pointCisloA;
-        public Point pointCisloB;
-        public Point pointZnamenko;
-        public Priklad(double cisloA, double cisloB, Operator znamenko, Point pointCisloA, Point pointCisloB, Point pointZnamenko)
+        private Point pointCisloA;
+        private Point pointCisloB;
+        private Point pointZnamenko;
+        private Brush brush;
+        public Priklad(double cisloA, double cisloB, Operator znamenko, Point pointCisloA, Point pointCisloB, Point pointZnamenko, Color color)
         {
             this.cisloA = cisloA;
             this.cisloB = cisloB;
@@ -25,6 +27,7 @@ namespace _2ITASpoctiGame
             this.pointCisloA = pointCisloA;
             this.pointCisloB = pointCisloB;
             this.pointZnamenko = pointZnamenko;
+            this.brush = new SolidBrush(color);
         }
 
         public double VypocitejVysledek()
@@ -53,8 +56,10 @@ namespace _2ITASpoctiGame
         }
         public void Vykresli(Graphics g)
         {
-            Font font = new Font("Segoe UI", 10);
-            g.DrawString(cisloA.ToString(), font, Brushes.Black, 50, 50);
+            Font font = new Font("Segoe UI", 15);
+            g.DrawString(cisloA.ToString(), font, brush, pointCisloA);
+            g.DrawString(cisloB.ToString(), font, brush, pointCisloB);
+            g.DrawString(VratZnak(), font, brush, pointZnamenko);
         }
     }
     public enum Operator

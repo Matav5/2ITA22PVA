@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\verne\\source\\repos\\2ITASpoctiGame\\2ITASpoctiGame\\2ITASpoctiGame.csproj": {}
+    "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITASpoctiGame\\2ITASpoctiGame\\2ITASpoctiGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\verne\\source\\repos\\2ITASpoctiGame\\2ITASpoctiGame\\2ITASpoctiGame.csproj": {
+    "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITASpoctiGame\\2ITASpoctiGame\\2ITASpoctiGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\verne\\source\\repos\\2ITASpoctiGame\\2ITASpoctiGame\\2ITASpoctiGame.csproj",
+        "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITASpoctiGame\\2ITASpoctiGame\\2ITASpoctiGame.csproj",
         "projectName": "2ITASpoctiGame",
-        "projectPath": "C:\\Users\\verne\\source\\repos\\2ITASpoctiGame\\2ITASpoctiGame\\2ITASpoctiGame.csproj",
-        "packagesPath": "C:\\Users\\verne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\verne\\source\\repos\\2ITASpoctiGame\\2ITASpoctiGame\\obj\\",
+        "projectPath": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITASpoctiGame\\2ITASpoctiGame\\2ITASpoctiGame.csproj",
+        "packagesPath": "C:\\Users\\Matav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITASpoctiGame\\2ITASpoctiGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\verne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matav\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
