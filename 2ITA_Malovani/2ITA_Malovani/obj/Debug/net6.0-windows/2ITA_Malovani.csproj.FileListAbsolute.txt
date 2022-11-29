@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\bin\Debug\net6.0-windows\2ITA_Malovani.exe
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\bin\Debug\net6.0-windows\2ITA_Malovani.deps.json
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\bin\Debug\net6.0-windows\2ITA_Malovani.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\bin\Debug\net6.0-windows\2ITA_Malovani.dll
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\bin\Debug\net6.0-windows\2ITA_Malovani.pdb
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\_2ITA_Malovani.Form1.resources
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.dll
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\refint\2ITA_Malovani.dll
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.pdb
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\2ITA_Malovani.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITA_Malovani\2ITA_Malovani\obj\Debug\net6.0-windows\ref\2ITA_Malovani.dll
