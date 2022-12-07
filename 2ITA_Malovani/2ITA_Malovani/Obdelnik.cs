@@ -20,11 +20,11 @@ namespace _2ITA_Malovani
             //Vykreslování negativní šířky a výšky
             if (maVypln)
             {
-                g.FillRectangle(stetec, x, y, sirka, vyska);
+                g.FillRectangle(stetec, VykreslovaciX, VykreslovaciY, VykreslovaciSirka, VykreslovaciVyska);
             }
             else
             {
-                g.DrawRectangle(pero, x, y, sirka, vyska);
+                g.DrawRectangle(pero, VykreslovaciX, VykreslovaciY, VykreslovaciSirka, VykreslovaciVyska);
             }
         }
 

@@ -15,6 +15,10 @@ namespace _2ITA_Malovani
         public Color barva;
         public bool maVypln;
 
+        protected int VykreslovaciX => sirka < 0 ? x + sirka : x;
+        protected int VykreslovaciY => vyska < 0 ? y + vyska : y;
+        protected int VykreslovaciSirka => Math.Abs(sirka);
+        protected int VykreslovaciVyska => Math.Abs(vyska);
         public Tvar(int x, int y, int sirka, int vyska, Color barva, bool maVypln)
         {
             this.x = x;

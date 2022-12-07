@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\2ITA_Malovani\\2ITA_Malovani\\2ITA_Malovani.csproj",
+      "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITA_Malovani\\2ITA_Malovani\\2ITA_Malovani.csproj",
       "projectName": "2ITA_Malovani",
-      "projectPath": "C:\\Users\\Matav\\source\\repos\\2ITA_Malovani\\2ITA_Malovani\\2ITA_Malovani.csproj",
+      "projectPath": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITA_Malovani\\2ITA_Malovani\\2ITA_Malovani.csproj",
       "packagesPath": "C:\\Users\\Matav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matav\\source\\repos\\2ITA_Malovani\\2ITA_Malovani\\obj\\",
+      "outputPath": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITA_Malovani\\2ITA_Malovani\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matav\\AppData\\Roaming\\NuGet\\NuGet.Config",

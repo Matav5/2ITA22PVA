@@ -19,11 +19,11 @@ namespace _2ITA_Malovani
         {
             if (maVypln)
             {
-                g.FillEllipse(stetec, x, y, sirka, vyska);
+                g.FillEllipse(stetec, VykreslovaciX, VykreslovaciY, VykreslovaciSirka, VykreslovaciVyska);
             }
             else
             {
-                g.DrawEllipse(pero, x, y, sirka, vyska);
+                g.DrawEllipse(pero, VykreslovaciX, VykreslovaciY, VykreslovaciSirka, VykreslovaciVyska);
             }
         }
         public override void ZmenaVelikosti(int x2, int y2)
