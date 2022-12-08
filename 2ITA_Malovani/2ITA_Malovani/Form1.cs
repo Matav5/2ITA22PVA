@@ -65,6 +65,9 @@ namespace _2ITA_Malovani
                 case TypTvaru.Kolecko:
                     aktualniTvar = new Kolecko(x, y, 0, 0, aktualniBarva, checkBox1.Checked);
                     break;
+                case TypTvaru.Cara:
+                    aktualniTvar = new Cara(x, y, 0, 0, aktualniBarva);
+                    break;
             }
         }
         private void button1_Click(object sender, EventArgs e)
@@ -80,6 +83,22 @@ namespace _2ITA_Malovani
         private void button3_Click(object sender, EventArgs e)
         {
             typTvaru = TypTvaru.Cara;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            tvary.Clear();
+            Refresh();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            if (tvary.Count > 0)
+            {
+                tvary.RemoveAt(tvary.Count - 1);
+                Refresh();
+            }
+
         }
     }
     public enum TypTvaru
