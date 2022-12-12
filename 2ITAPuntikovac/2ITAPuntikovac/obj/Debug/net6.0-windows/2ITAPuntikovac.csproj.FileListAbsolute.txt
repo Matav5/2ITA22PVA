@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\bin\Debug\net6.0-windows\2ITAPuntikovac.exe
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\bin\Debug\net6.0-windows\2ITAPuntikovac.deps.json
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\bin\Debug\net6.0-windows\2ITAPuntikovac.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\bin\Debug\net6.0-windows\2ITAPuntikovac.dll
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\bin\Debug\net6.0-windows\2ITAPuntikovac.pdb
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\_2ITAPuntikovac.Form1.resources
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.dll
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\refint\2ITAPuntikovac.dll
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.pdb
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\2ITAPuntikovac.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITAPuntikovac\2ITAPuntikovac\obj\Debug\net6.0-windows\ref\2ITAPuntikovac.dll
