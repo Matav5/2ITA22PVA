@@ -9,16 +9,32 @@ namespace _2ITAJSON
         public Form1()
         {
             InitializeComponent();
-            NactiZeSouboru();
-            if (zbrane.Count == 0)
+            List<ZbranJSON> zbraneJson = NactiZeSouboru();
+            if (zbraneJson.Count == 0)
             {
                 VytvorZbran(30, 30, 35, "AK-47", TypZbrane.AR);
                 VytvorZbran(100, 100, 15, "Negev", TypZbrane.LMG);
             }
             else
             {
-                VytvorGrafiky();
+                VytvorZbrane(zbraneJson);
             }
+        }
+
+        private void VytvorZbrane(List<ZbranJSON> zbraneJson)
+        {
+            for (int i = 0; i < zbraneJson.Count; i++)
+            {
+                VytvorZbran(zbraneJson[i]);
+            }
+        }
+
+        private void VytvorZbran(ZbranJSON zbranJSON)
+        {
+            Label label = new Label();
+            Zbran zbran = new Zbran(zbranJSON, label);
+            tableLayoutPanel1.Controls.Add(label);
+            zbrane.Add(zbran);
         }
 
         public void VytvorGrafiky()
@@ -46,12 +62,13 @@ namespace _2ITAJSON
             MessageBox.Show(json);
             File.WriteAllText("zbrane.json", json);
         }
-        private void NactiZeSouboru()
+        private List<ZbranJSON> NactiZeSouboru()
         {
             if (!File.Exists("zbrane.json"))
-                return;
+                return new List<ZbranJSON>();
             string savedJson = File.ReadAllText("zbrane.json");
-            zbrane = JsonSerializer.Deserialize<List<Zbran>>(savedJson);
+            List<ZbranJSON> zbraneJSON = JsonSerializer.Deserialize<List<ZbranJSON>>(savedJson);
+            return zbraneJSON;
         }
     }
 }

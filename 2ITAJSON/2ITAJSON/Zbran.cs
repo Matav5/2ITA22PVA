@@ -28,6 +28,10 @@ namespace _2ITAJSON
 
 
         }
+        public Zbran(ZbranJSON zbranJSON, Label label) : this(zbranJSON.KapacitaNaboju, zbranJSON.AktualniNaboje, zbranJSON.Poskozeni, zbranJSON.JmenoZbrane, zbranJSON.TypZbrane, label)
+        {
+            
+        }
         public Zbran(int kapacitaNaboju, int aktualniNaboje, int poskozeni, string jmenoZbrane, TypZbrane typZbrane, Label label)
         {
             this.kapacitaNaboju = kapacitaNaboju;
