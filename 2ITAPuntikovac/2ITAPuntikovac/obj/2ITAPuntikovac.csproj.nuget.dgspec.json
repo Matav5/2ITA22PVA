@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matav\\source\\repos\\2ITAPuntikovac\\2ITAPuntikovac\\2ITAPuntikovac.csproj": {}
+    "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITAPuntikovac\\2ITAPuntikovac\\2ITAPuntikovac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matav\\source\\repos\\2ITAPuntikovac\\2ITAPuntikovac\\2ITAPuntikovac.csproj": {
+    "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITAPuntikovac\\2ITAPuntikovac\\2ITAPuntikovac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\2ITAPuntikovac\\2ITAPuntikovac\\2ITAPuntikovac.csproj",
+        "projectUniqueName": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITAPuntikovac\\2ITAPuntikovac\\2ITAPuntikovac.csproj",
         "projectName": "2ITAPuntikovac",
-        "projectPath": "C:\\Users\\Matav\\source\\repos\\2ITAPuntikovac\\2ITAPuntikovac\\2ITAPuntikovac.csproj",
+        "projectPath": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITAPuntikovac\\2ITAPuntikovac\\2ITAPuntikovac.csproj",
         "packagesPath": "C:\\Users\\Matav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matav\\source\\repos\\2ITAPuntikovac\\2ITAPuntikovac\\obj\\",
+        "outputPath": "C:\\Users\\Matav\\source\\repos\\2ITA22PVA\\2ITAPuntikovac\\2ITAPuntikovac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matav\\AppData\\Roaming\\NuGet\\NuGet.Config",

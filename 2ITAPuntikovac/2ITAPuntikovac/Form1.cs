@@ -52,7 +52,10 @@ namespace _2ITAPuntikovac
 
         private void NacitaniHrisniku()
         {
-           string[] radky = File.ReadAllLines("save.txt");
+            if (!File.Exists("save.txt"))
+                return;
+
+            string[] radky = File.ReadAllLines("save.txt");
             for (int i = 0; i < radky.Length; i++)
             {
                 Label label = new Label();

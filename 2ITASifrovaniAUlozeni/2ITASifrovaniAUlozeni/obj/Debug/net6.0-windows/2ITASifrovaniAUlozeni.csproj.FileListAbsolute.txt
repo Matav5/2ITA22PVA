@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\bin\Debug\net6.0-windows\2ITASifrovaniAUlozeni.exe
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\bin\Debug\net6.0-windows\2ITASifrovaniAUlozeni.deps.json
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\bin\Debug\net6.0-windows\2ITASifrovaniAUlozeni.runtimeconfig.json
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\bin\Debug\net6.0-windows\2ITASifrovaniAUlozeni.dll
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\bin\Debug\net6.0-windows\2ITASifrovaniAUlozeni.pdb
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\_2ITASifrovaniAUlozeni.Form1.resources
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.AssemblyInfo.cs
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.dll
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\refint\2ITASifrovaniAUlozeni.dll
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.pdb
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\2ITASifrovaniAUlozeni.genruntimeconfig.cache
+C:\Users\Matav\source\repos\2ITA22PVA\2ITASifrovaniAUlozeni\2ITASifrovaniAUlozeni\obj\Debug\net6.0-windows\ref\2ITASifrovaniAUlozeni.dll
